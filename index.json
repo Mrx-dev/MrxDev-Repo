@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Tachiyomi: MangaLek | 2024",
+    "pkg": "eu.kanade.tachiyomi-ar.mangalek-v1.4.38",
+    "apk": "tachiyomi-ar.mangalek-v1.4.38.apk",
+    "lang": "ar",
+    "code": 38,
+    "version": "1.4.38",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaLek | 2024",
+        "lang": "ar",
+        "id": "18436466951114129945",
+        "baseUrl": "https://lekmanga.net/",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  }
+]
